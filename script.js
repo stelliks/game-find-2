@@ -13,7 +13,7 @@ function createObjects(num) {
     }
     return arr;
 }
-let arrObjects = createObjects(50);
+let arrObjects = createObjects(15);
 
 //создание копий объектов массива
 function doubleObjects(arr) {
